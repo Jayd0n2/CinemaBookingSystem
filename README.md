@@ -1,5 +1,9 @@
-# CinemaBookingSystem
-A cinema ticket booking system developed using HTML and CSS frontend and PHP for backend.
+## CinemaBookingSystem
+#A cinema ticket booking system developed using HTML and CSS frontend and PHP for backend.
+
+
+
+
 
 Login for:
 userAdmin
