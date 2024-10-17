@@ -10,27 +10,35 @@ A cinema ticket booking system developed with **HTML and CSS** for the frontend 
   ```plaintext
   Username: userAdmin
   Password: staff
-Cinema Manager
-Username: cinemaManager
-Password: staff
+  
+- **Cinema Manager**
+  ```plaintext
+  Username: cinemaManager
+  Password: staff
 
-Cinema Owner
-Username: cinemaOwner
-Password: staff
+- **Cinema Owner**
+  ```plaintext
+  Username: cinemaOwner
+  Password: staff
 
-Users
-Adult
-Username: Mary01
-Password: mary01
+### Users
 
-Child
-Username: Lisa1234
-Password: lisa1234
+- **Adult**
+  ```plaintext
+  Username: Mary01
+  Password: mary01
 
-Senior Citizen
-Username: AdamWhite12
-Password: adamwhite12
+- **Child**
+  ```plaintext
+  Username: Lisa1234
+  Password: lisa1234
 
-Student
-Username: JohnGreen
-Password: johngreen
+- **Senior Citizen**
+  ```plaintext
+  Username: AdamWhite12
+  Password: adamwhite12
+
+- **Student**
+  ```plaintext
+  Username: JohnGreen
+  Password: johngreen
